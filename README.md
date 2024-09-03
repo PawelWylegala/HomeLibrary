@@ -10,8 +10,8 @@ Allowed action for command <category>: list, add, del.
 Command pattern for help, quit: <command>
 Command pattern for book/movie: <command> <action> <param1> <param2>
 
-    Example: book add  -> BookName add CategoryName
-             book del  -> BookName del CategoryName
+    Example: book add  BookName CategoryName
+             book del  BookName CategoryName
              book list -> list of books
 
 ~~~
